@@ -3,9 +3,9 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 # QR Code Generator
-![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen01.png)
+![](https://github.com/Mahesh-Pawar-02/QR_Code_Generator_Using_Python/blob/main/Window.png)
 
-![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen02.png)
+![](https://github.com/Mahesh-Pawar-02/QR_Code_Generator_Using_Python/blob/main/QR.png.png)
 
 ## 🛠️ Description
 Generate QR Code with Tkinter GUI and save the QR Code into the Local Directory (cwd).
@@ -30,4 +30,4 @@ Made with `python`
 [Vivek](https://github.com/Mahesh-Pawar-02)
 
 Any Questions?
-[Twitter](https://twitter.com/vivekthedev)
+[Twitter](https://www.instagram.com/official_mahesh_02/)
