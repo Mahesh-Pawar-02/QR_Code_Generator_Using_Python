@@ -27,7 +27,7 @@ Made with `python`
 
 
 ## 🤖 Author
-[Vivek](https://github.com/Mahesh-Pawar-02)
+[Mahesh Pawar](https://github.com/Mahesh-Pawar-02)
 
 Any Questions?
-[Twitter](https://www.instagram.com/official_mahesh_02/)
+[Instagram](https://www.instagram.com/official_mahesh_02/)
